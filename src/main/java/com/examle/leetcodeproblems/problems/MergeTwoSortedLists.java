@@ -2,6 +2,11 @@ package com.examle.leetcodeproblems.problems;
 
 import com.examle.leetcodeproblems.utils.ListNode;
 
+/*
+number: 21
+difficulty: Easy
+*/
+
 public class MergeTwoSortedLists {
     public static ListNode mergeTwoLists(ListNode list1, ListNode list2) {
         if (list1 == null || list2 == null)
