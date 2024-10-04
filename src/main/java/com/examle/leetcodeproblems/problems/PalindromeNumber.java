@@ -1,4 +1,4 @@
-package com.examle.leetcodeproblems;
+package com.examle.leetcodeproblems.problems;
 
 /*
 number: 9
