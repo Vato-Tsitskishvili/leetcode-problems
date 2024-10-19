@@ -1,8 +1,8 @@
 package com.examle.leetcodeproblems.problems;
 
 /*
-number: 26
-difficulty: Easy
+Number: 26
+Difficulty: Easy
 */
 
 public class RemoveDuplicatesFromSortedArray {

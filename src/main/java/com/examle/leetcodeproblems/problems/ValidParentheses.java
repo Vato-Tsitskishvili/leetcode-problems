@@ -3,8 +3,8 @@ package com.examle.leetcodeproblems.problems;
 import java.util.Stack;
 
 /*
-number: 20
-difficulty: Easy
+Number: 20
+Difficulty: Easy
 */
 
 public class ValidParentheses {

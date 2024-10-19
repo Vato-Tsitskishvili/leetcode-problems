@@ -3,8 +3,8 @@ package com.examle.leetcodeproblems.problems;
 import com.examle.leetcodeproblems.utils.ListNode;
 
 /*
-number: 21
-difficulty: Easy
+Number: 21
+Difficulty: Easy
 */
 
 public class MergeTwoSortedLists {

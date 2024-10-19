@@ -1,8 +1,8 @@
 package com.examle.leetcodeproblems.problems;
 
 /*
-number: 9
-difficulty: Easy
+Number: 9
+Difficulty: Easy
 */
 
 public class PalindromeNumber {
